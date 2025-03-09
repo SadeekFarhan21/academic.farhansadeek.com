@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Farhan Sadeek",
+    "section": "",
+    "text": "Welcome to my website! My name is Farhan Sadeek. I am an incoming mathematics PhD student at University of Illinois at Urbana-Champaign (supported by an NSF Graduate Research Fellowship), advised by William Yun Chen. I previously graduated from The Ohio State University (class of 2025) with a major in Mathematics and minors in Physics and computer Science . I’m interested in studying probability, combinatorics, and/or mathematical physics, but it might be a while longer before I have anything interesting to say about them :)"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Farhan Sadeek",
+    "section": "",
+    "text": "Welcome to my website! My name is Farhan Sadeek. I am an incoming mathematics PhD student at University of Illinois at Urbana-Champaign (supported by an NSF Graduate Research Fellowship), advised by William Yun Chen. I previously graduated from The Ohio State University (class of 2025) with a major in Mathematics and minors in Physics and computer Science . I’m interested in studying probability, combinatorics, and/or mathematical physics, but it might be a while longer before I have anything interesting to say about them :)"
+  },
+  {
+    "objectID": "index.html#papers-and-publications",
+    "href": "index.html#papers-and-publications",
+    "title": "Farhan Sadeek",
+    "section": "Papers and Publications",
+    "text": "Papers and Publications\n\nPredicting Market States and Optimizing Investment Strategies: A Machine Learning Approach\nAuthors: Jalen Francis, Farhan Sadeek, Jayson Clark\nAbstract: This research presents a machine learning-based system for predicting market states and optimizing investment strategies using S&P 500 data from 2008-2022. The system classifies market periods as Bull, Bear, or Static, and employs ensemble and deep learning models to forecast future conditions, dynamically allocating assets between equities and bonds. The Combined Anomaly-Regime strategy achieved a 56.34% total return with better risk-adjusted performance compared to a buy-and-hold approach.\nPreprint\nSignifyAI: Enhancing Communication for the Deaf and Hard of Hearing through ASL Spelling and Gesture Detection\nAuthors: Jalen Francis, Farhan Sadeek, Jayson Clark, Aditya Bhati, Andrew McKenzie\nAbstract: This research introduces a real-time system to enhance communication for deaf or hard of hearing individuals by integrating ASL gesture recognition and facial emotion detection. Using deep learning models, the system translates ASL finger-spelling into text, recognizes hand gestures, and detects facial expressions to convey emotions and grammatical nuances. The solution aims to improve accessibility and inclusivity in educational, professional, and social settings, as demonstrated by user studies and performance metrics.\nPreprint"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Farhan Sadeek",
+    "section": "Teaching",
+    "text": "Teaching\nDuring the sprign 2025 semester, I was a teaching assistant for CSE 2231: Software Development and Design at The Ohio State University. You can find some content from that class here"
+  },
+  {
+    "objectID": "index.html#personal-notes",
+    "href": "index.html#personal-notes",
+    "title": "Farhan Sadeek",
+    "section": "Personal Notes",
+    "text": "Personal Notes\nThese are the notes I’ve taken while learning mathematics. I use them for reference, but they’re quite terse, and not a good resource to learn from. You can find them on this link"
+  },
+  {
+    "objectID": "index.html#writing",
+    "href": "index.html#writing",
+    "title": "Farhan Sadeek",
+    "section": "Writing",
+    "text": "Writing\nWhen I was in high school, I took some courses at The Ohio State University through the Academy Program, and I was lucky enough to advice some young students about their journey to college.\n\nComputer Science For beginners interested in programming and Computer Science.\nPhysics People who want to study physics."
+  }
+]
