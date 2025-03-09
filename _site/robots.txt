@@ -1,1 +1,1 @@
-Sitemap: https://farhan-academic.netlify.app/sitemap.xml
+Sitemap: https://academic.farhansadeek.com/sitemap.xml

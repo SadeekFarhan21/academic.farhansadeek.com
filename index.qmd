@@ -37,20 +37,20 @@ pre, code {
 Welcome to my website!
 My name is Farhan Sadeek.
 I am an incoming mathematics PhD student at [University of Illinois at Urbana-Champaign](https://illinois.edu/) (supported by an NSF Graduate Research Fellowship), advised by [William Yun Chen](https://math.illinois.edu/directory/profile/wyc).
-I previously graduated from [The Ohio State University](https://osu.edu) (class of 2025) with a major in Mathematics and minors in Physics and computer Science .
+I previously graduated from [The Ohio State University](https://osu.edu) (class of 2025) with a major in Mathematics and minors in Physics and Computer Science .
 I'm interested in studying probability, combinatorics, and/or mathematical physics, but it might be a while longer before I have anything interesting to say about them :)
 
 ## Papers and Publications
 
 1.  **Predicting Market States and Optimizing Investment Strategies: A Machine Learning Approach**\
-    **Authors: Jalen Francis, Farhan Sadeek, Jayson Clark**\
+    **Authors: Jalen Francis, Farhan Sadeek, Jayson Clark, Aditya Bhati, Andrew McKenzie**\
     *Abstract:* This research presents a machine learning-based system for predicting market states and optimizing investment strategies using S&P 500 data from 2008-2022.
     The system classifies market periods as Bull, Bear, or Static, and employs ensemble and deep learning models to forecast future conditions, dynamically allocating assets between equities and bonds.
     The Combined Anomaly-Regime strategy achieved a 56.34% total return with better risk-adjusted performance compared to a buy-and-hold approach.\
     [Preprint](QuantifyAI.pdf)
 
 2.  **SignifyAI: Enhancing Communication for the Deaf and Hard of Hearing through ASL Spelling and Gesture Detection**\
-    **Authors: Jalen Francis, Farhan Sadeek, Jayson Clark, Aditya Bhati, Andrew McKenzie**\
+    **Authors: Jalen Francis, Farhan Sadeek, Jayson Clark**\
     *Abstract:* This research introduces a real-time system to enhance communication for deaf or hard of hearing individuals by integrating ASL gesture recognition and facial emotion detection.
     Using deep learning models, the system translates ASL finger-spelling into text, recognizes hand gestures, and detects facial expressions to convey emotions and grammatical nuances.
     The solution aims to improve accessibility and inclusivity in educational, professional, and social settings, as demonstrated by user studies and performance metrics.\
