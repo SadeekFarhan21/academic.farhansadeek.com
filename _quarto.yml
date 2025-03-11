@@ -3,7 +3,6 @@ project:
   output-dir: _site
 format:
   html:
-    theme: litera
     toc: true
     toc-location: right
     self-contained: true
@@ -23,9 +22,9 @@ website:
         icon: "fa-camera"
     right:
       - icon: twitter-x
-        href: https://twitter.com/SadeekFarhan21
+        href: https://twitter.com/FarhanSadeek21
       - icon: linkedin
-        href: https://www.linkedin.com/in/farhansadeek/
+        href: https://linkedin.com/in/farhansadeekde110
       - icon: envelope
         href: mailto:sadeekfarhan21@gmail.com
       - icon: github
