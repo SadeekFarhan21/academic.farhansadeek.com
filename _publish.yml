@@ -1,6 +1,6 @@
 - source: project
   netlify:
     - id: 7bb88862-5efb-434c-9399-c64d7d039c3d
-      url: https://farhan-academic.netlify.app
+      url: https://academic.farhansadeek.com
     - id: 3c4df587-79b2-439d-8b6d-e03c2b5e66f0
       url: https://roaring-entremet-ffb310.netlify.app

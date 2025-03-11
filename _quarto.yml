@@ -10,21 +10,24 @@ format:
 website:
   title: "Farhan Sadeek"
   site-url: https://academic.farhansadeek.com
-  repo-url: https://github.com/SadeekFarhan21/academic.farhansadeek.com
   navbar:
-    left:
-      - text: "Website"
-        menu: 
-          - text: "Professional"
-            href: https://farhansaadeek.com
-          - text: "Notes"
-            href: https://notes.farhansaadeek.com
-          - text: "Photography"
-            href: https://photos.farhansaadeek.com
-      - text: "Links"
-        menu:
-        - text: "Github"
-          href: https://github.com/SadeekFarhan21
-        - text: "Linkedin"
-        - text: "Twitter"
-        - text: "Tableau"
+    left: 
+      - text: "Professional"
+        href: https://farhansadeek.com
+        icon: "fa-briefcase"
+      - text: "Notes"
+        href: https://notes.farhansadeek.com
+        icon: "fa-book"
+      - text: "Photography"
+        href: https://photos.farhansadeek.com
+        icon: "fa-camera"
+    right:
+      - icon: twitter-x
+        href: https://twitter.com/SadeekFarhan21
+      - icon: linkedin
+        href: https://www.linkedin.com/in/farhansadeek/
+      - icon: envelope
+        href: mailto:sadeekfarhan21@gmail.com
+      - icon: github
+        href: https://github.com/SadeekFarhan21
+        

@@ -1,7 +1,9 @@
 ---
 format:
   html:
-    theme: litera
+    theme:
+      dark: darkly
+      light: spacelab
 execute:
   echo: true
   warning: false
@@ -20,10 +22,12 @@ page-footer: |
 @import url('https://fonts.googleapis.com/css2?family=Funnel+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Fragment+Mono:ital@0;1&display=swap');
 
-p, a, u {
+p, a, u, li, ol, ul, h1, h2, h3, h4, h5, h6 {
   font-family: 'Figtree';
 }
-
+a {
+  text-decoration: none;
+}
 pre, code {
   font-family: 'Fragment Mono';
   font-size: 14px;
@@ -34,42 +38,68 @@ pre, code {
 
 ## About Me
 
-Welcome to my website!
-My name is Farhan Sadeek.
-I am an incoming mathematics PhD student at [University of Illinois at Urbana-Champaign](https://illinois.edu/) (supported by an NSF Graduate Research Fellowship), advised by [William Yun Chen](https://math.illinois.edu/directory/profile/wyc).
-I previously graduated from [The Ohio State University](https://osu.edu) (class of 2025) with a major in Mathematics and minors in Physics and Computer Science .
-I'm interested in studying probability, combinatorics, and/or mathematical physics, but it might be a while longer before I have anything interesting to say about them :)
+Welcome to my website. I am a high school student at [Dublin Coffman High School](https://coffman.dublinschools.net/) and dual enrolled at the [The Ohio State University](https://osu.edu). I am interested in mathematics, physics, computer science, and electrical engineering. During high school I participated in mathematics, physics, chemistry and informatics olympiads. You can find my resume [here].
 
 ## Papers and Publications
-
 1.  **Predicting Market States and Optimizing Investment Strategies: A Machine Learning Approach**\
-    **Authors: Jalen Francis, Farhan Sadeek, Jayson Clark, Aditya Bhati, Andrew McKenzie**\
+    *Authors: Jalen Francis, Farhan Sadeek, Jayson Clark, Aditya Bhati, Andrew McKenzie*\
     *Abstract:* This research presents a machine learning-based system for predicting market states and optimizing investment strategies using S&P 500 data from 2008-2022.
     The system classifies market periods as Bull, Bear, or Static, and employs ensemble and deep learning models to forecast future conditions, dynamically allocating assets between equities and bonds.
-    The Combined Anomaly-Regime strategy achieved a 56.34% total return with better risk-adjusted performance compared to a buy-and-hold approach.\
-    [Preprint](QuantifyAI.pdf)
+    The Combined Anomaly-Regime strategy achieved a 56.34% total return with better risk-adjusted performance compared to a buy-and-hold approach. You can find the paper [here.](QuantifyAI.pdf)
 
 2.  **SignifyAI: Enhancing Communication for the Deaf and Hard of Hearing through ASL Spelling and Gesture Detection**\
-    **Authors: Jalen Francis, Farhan Sadeek, Jayson Clark**\
+    *Authors: Jalen Francis, Farhan Sadeek, Jayson Clark*\
     *Abstract:* This research introduces a real-time system to enhance communication for deaf or hard of hearing individuals by integrating ASL gesture recognition and facial emotion detection.
     Using deep learning models, the system translates ASL finger-spelling into text, recognizes hand gestures, and detects facial expressions to convey emotions and grammatical nuances.
-    The solution aims to improve accessibility and inclusivity in educational, professional, and social settings, as demonstrated by user studies and performance metrics.\
-    [Preprint](SignifyAI.pdf)
+    The solution aims to improve accessibility and inclusivity in educational, professional, and social settings, as demonstrated by user studies and performance metrics. You can find the paper [here.](SignifyAI.pdf)
 
 ## Teaching
 
 During the sprign 2025 semester, I was a teaching assistant for [CSE 2231: Software Development and Design](https://web.cse.ohio-state.edu/software/2231/web-sw1/schedule.html) at The Ohio State University.
-You can find some content from that class [here](https://notes.farhansadeek.com/Ohio_State/cse2231/notes/cse2231.pdf)
+You can find some content from that class [here](https://notes.farhansadeek.com/Ohio_State/cse2231/notes/cse2231.pdf).
 
-## Personal Notes
+## Coursework and Personal Notes
 
-These are the notes I’ve taken while learning mathematics.
-I use them for reference, but they’re quite terse, and not a good resource to learn from.
-You can find them on this [link](https://notes.farhansadeek.com)
+During my time at Ohio State, I took some mathematics, physics, computer Science and Electrical Engineering class at Ohio State. Here are those courses:
+
+### Mathematics
+- Math 4547: Real Analysis
+- Math 4580: Abstract Algebra
+- Math 4573: Number Theory
+- Math 4575: Combinatorics (Audit)
+- Math 4512: Partial Differential Equations
+- Math 3345: Mathematical Proofs
+- Math 2255: Differential Equations (Audit)
+- Math 2568: Linear Algebra
+- Math 2153: Multivariable Calculus
+- Math 1151 and 1152: Single Variable Calculus
+
+### Statistics
+- Stat 4202: Inferential Statistics
+- Stat 4201: Mathematical Statistics
+- Stat 3470: Introduction to Probability and Statistics for Engineers
+
+### Computer Science
+- CSE 2321: Foundations I: Discrete Structures
+- CSE 2231: Software II : Software Development and Design
+- CSE 2221: Software I: Software Components
+- CSE 1223 : Introduction to Computer Programming in Java
+
+### Physics
+- Physics 2301: Rotation and Relativity 
+- Physics 2300: Intermediate Mechanics
+- Physics 1251: E&M, Waves, Optics, Modern Physics
+- Physics 1250: Mechanics, Work and Energy, Thermal Physics
+
+I started writing my notes in latex during lecture since the spring semester of 2025 as a transition to my mathematics and physics degree in collge. They are not so well written because I am still learning to live Latex. You can find them on this [notes.farhansadeek.com](https://notes.farhansadeek.com)
 
 ## Writing
 
-When I was in high school, I took some courses at [The Ohio State University](https://osu.edu) through the [Academy Program](https://academy.osu.edu/), and I was lucky enough to advice some young students about their journey to college.
+When I was in high school, I took the [The Ohio State University](https://osu.edu) courses through through the [Academy Program](https://academy.osu.edu/), and I was lucky enough to advice some young students about their transition from high school to college courses. Based on that experience I wrote these two articles. I wil write more as I get more time and experience.
 
-1.  [Computer Science](https://notes.farhansadeek.com/advice/CS.pdf) For beginners interested in programming and Computer Science.
-2.  [Physics](https://notes.farhansadeek.com/advice/Physics.pdf) People who want to study physics.
+1.  [Difference between Computer Science and Programming](https://notes.farhansadeek.com/advice/CS.pdf) : For beginners interested in programming and Computer Science and how learn both of those subfields effectively and efficiently.
+2.  [Learning Physics](https://notes.farhansadeek.com/advice/Physics.pdf) People who want to study physics.
+
+
+## Miscellaneous
+Outside of academics, I enjoy biking, hiking, and running. I am also an avid photographer and a fan of soccer. My favorite team is FC Barcelona.
